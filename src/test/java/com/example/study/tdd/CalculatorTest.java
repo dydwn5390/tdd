@@ -1,4 +1,4 @@
-package com.mqnic.study.tdd;
+package com.example.study.tdd;
 
 import org.junit.jupiter.api.Test;
 
